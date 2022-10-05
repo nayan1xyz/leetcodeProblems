@@ -8,7 +8,7 @@ note :- first make a issue wait for assigning then work on the pr.
 
 Say hi to the world in any language of your choice!
 
-# What is Hacktoberfest?
+# What is Hacktoberfest ?
 
 Hacktoberfest is a program by Digital Ocean and Github, where you can easily win a T-Shirt just by making 4 pull requests in the month of October to any open source projects on Github.
 
@@ -91,5 +91,5 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 
 
 
-
+### Thank you
 # End
