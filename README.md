@@ -56,10 +56,10 @@ git clone "url of the repo you want to clone"
 
 Switch to the repository directory on your computer (if you are not there):
 
-Now create a branch using `git switch` command:
+Now create a branch using `git checkout` command:
 
 ```
-git switch -c branch-name
+git checkout -b branch-name
 ```
 Replace branch-name to the branch name of your choice.
 
@@ -91,5 +91,5 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 
 
 
-### Thank you
-# End
+## Thank you 😊
+## End
